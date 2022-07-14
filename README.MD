@@ -1,0 +1,1 @@
+This is a repository for kalicorp, the same represents the best efforts to create a draft of a game based in web technologies 
